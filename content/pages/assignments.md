@@ -11,13 +11,84 @@ Some of the problem sets for this course are derived from this master problem se
 Problem Sets
 ------------
 
-| ASSIGNMENTS | SUPPORTING FILES |
-| --- | --- |
-| Problem Set 1([PDF]({{< baseurl >}}/resources/pset_1)) | &nbsp; |
-| Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset_2)) | &nbsp; |
-| Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset_3)) | &nbsp; |
-| Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset_4)) | &nbsp; |
-| Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset_5)) |  {{< br >}}{{< br >}} Variable Length Pendulum Problem ([PDF]({{< baseurl >}}/resources/ot_varlengthpend))  {{< br >}}Fourier Series Problem Statement ([PDF]({{< baseurl >}}/resources/otans_four_stmt))  {{< br >}}  {{< br >}}_MATLAB® for Fourier Series_  {{< br >}}  {{< br >}}readmeFouSer.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/readmeFouSer.m))  {{< br >}}fourierSC.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/fourierSC.m))  {{< br >}}FSFun.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSFun.m))  {{< br >}}FSoption.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSoption.m))  {{< br >}}FSoptionP.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSoptionP.m))  {{< br >}}heatSln.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/heatSln.m))  {{< br >}}gibbsFSE.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/gibbsFSE.m))  {{< br >}}Lissajous.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/Lissajousm.m)) (Use to make Lissajous Figures)  {{< br >}}  {{< br >}}  {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1([PDF]({{< baseurl >}}/resources/pset_1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset_2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset_3))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset_4))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset_5))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Variable Length Pendulum Problem ([PDF]({{< baseurl >}}/resources/ot_varlengthpend))  
+Fourier Series Problem Statement ([PDF]({{< baseurl >}}/resources/otans_four_stmt))  
+  
+_MATLAB® for Fourier Series_  
+  
+readmeFouSer.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/readmeFouSer.m))  
+fourierSC.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/fourierSC.m))  
+FSFun.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSFun.m))  
+FSoption.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSoption.m))  
+FSoptionP.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSoptionP.m))  
+heatSln.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/heatSln.m))  
+gibbsFSE.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/gibbsFSE.m))  
+Lissajous.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/Lissajousm.m)) (Use to make Lissajous Figures)  
+  
+ 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MATLAB® Information
 -------------------
