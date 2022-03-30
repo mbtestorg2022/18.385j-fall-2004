@@ -72,14 +72,14 @@ Fourier Series Problem Statement ([PDF]({{< baseurl >}}/resources/otans_four_stm
   
 _MATLAB® for Fourier Series_  
   
-readmeFouSer.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/readmeFouSer.m))  
-fourierSC.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/fourierSC.m))  
-FSFun.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSFun.m))  
-FSoption.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSoption.m))  
-FSoptionP.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/FSoptionP.m))  
-heatSln.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/heatSln.m))  
-gibbsFSE.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/gibbsFSE.m))  
-Lissajous.m ([M](/courses/mathematics/18-385j-nonlinear-dynamics-and-chaos-fall-2004/assignments/Lissajousm.m)) (Use to make Lissajous Figures)  
+readmeFouSer.m ({{% resource_link "8f285e7c-261f-fc21-a5ee-ed9a0f8635bf" "M" %}})  
+fourierSC.m ({{% resource_link "1eb6619a-fa58-84c9-aa5c-baa4efad12d2" "M" %}})  
+FSFun.m ({{% resource_link "055773a6-6e50-66d9-37ed-756d5c723ac7" "M" %}})  
+FSoption.m ({{% resource_link "e40d5d21-b5ac-66c4-a766-73f1081f9a52" "M" %}})  
+FSoptionP.m ({{% resource_link "4071b787-859e-7e98-1d9a-0b10adf379d2" "M" %}})  
+heatSln.m ({{% resource_link "91e32bbb-85c3-9d26-7686-6f97d29a6fdc" "M" %}})  
+gibbsFSE.m ({{% resource_link "974ad97e-55ea-1f97-df3d-879c45bf4df9" "M" %}})  
+Lissajous.m ({{% resource_link "8d4746af-1fc4-2df0-a04d-c2c270171e4d" "M" %}}) (Use to make Lissajous Figures)  
   
  
 

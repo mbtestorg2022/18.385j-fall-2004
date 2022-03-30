@@ -6,6 +6,7 @@ description: 'This resource contains notes on
   Pol equation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/fdf8ddfa718fb2686f3a0d4e1e3976d9_wklynloscilator.pdf
 file_type: application/pdf
+parent_uid: f21584ee-ed35-e9d3-463c-af38d99814a8
 resourcetype: Document
 title: wklynloscilator.pdf
 uid: fdf8ddfa-718f-b268-6f3a-0d4e1e3976d9
